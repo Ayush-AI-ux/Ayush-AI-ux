@@ -295,12 +295,12 @@ graph LR
 ```mermaid
 timeline
     title My Journey
-    2019 : Cleared JEE with 96 Percentile
-    2020 : Started B.Tech in AI & Analytics
-    2021 : Built first Full Stack Project
-    2022 : Ranked 6th in Honours Program
-    2023 : Multiple ML Projects Completed
+    2023 : Cleared JEE with 96 Percentile
+    2023 : Started B.Tech in AI & Analytics
+    2024 : Built first Full Stack Project
+    2024 : Multiple ML Projects Completed
     2024 : Career Guidance AI System
+    2025 : Built First App 
 ```
 
 </div>
@@ -313,10 +313,10 @@ timeline
 
 I'm always open to interesting conversations and collaboration opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ayushmittal)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ayushmittal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://ayushmittal.dev)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:ayush@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-mittal-b25361289/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](http://x.com/AyushMittal637)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome)](https://ayush-ai-ux.github.io/Portflio_Ayush/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:ayushmittal6377@gmail.com)
 
 ### ✨ *"Building the future, one line of code at a time"* ✨
 
