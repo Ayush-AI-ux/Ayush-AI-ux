@@ -25,10 +25,10 @@ I'm an **entrepreneurial enthusiast**, a dedicated **web developer**, and an **A
 const ayush = {
     location: "India 🇮🇳",
     education: "B.Tech Honours (AI & Analytics)",
-    rank: "6th in Honours Program",
     cpi: 8.4,
-    currentFocus: ["AI/ML", "Full Stack Development", "Data Analytics"],
+    currentFocus: ["AI/ML", "Full Stack Development", "React Native", "Cloud Deployment"],
     hobbies: ["Badminton 🏸", "Sketching 🎨", "E-Sports 🎮"],
+    recentWork: ["Mobile App with Clerk Auth", "Cron Job Automation", "Render Deployment"],
     funFact: "I merge creativity with technology to solve real-world problems!"
 };
 ```
@@ -37,7 +37,7 @@ const ayush = {
 - 🤖 Exploring **AI, Machine Learning, and Analytics**
 - 🧠 Passionate about **smart systems** that learn and improve over time
 - 💡 Love solving **real-world problems** with tech and creativity
-- 🎓 **B.Tech Honours (AI & Analytics)** — 6th Rank Holder | CPI: 8.4
+- 🎓 **B.Tech Honours (AI & Analytics)** —  CPI: 8.4
 
 ---
 
@@ -65,6 +65,7 @@ const ayush = {
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend Development
@@ -76,6 +77,8 @@ const ayush = {
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=for-the-badge&logo=neon&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### AI/ML & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -91,6 +94,14 @@ const ayush = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
+### Authentication & Cloud
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+### Automation & Jobs
+![Cron](https://img.shields.io/badge/Cron_Jobs-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Node-Cron](https://img.shields.io/badge/Node--Cron-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
 </div>
 
 ---
@@ -98,7 +109,6 @@ const ayush = {
 ## 📌 Featured Projects
 
 <div align="center">
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -191,6 +201,25 @@ const ayush = {
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">🔹 React Native Mobile App</h3>
+      <br />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Deployed-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react" />
+        <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square" />
+      </p>
+      <p align="center">
+        Full-stack mobile application with Clerk authentication, Neon database, automated cron jobs, and backend deployed on Render.
+      </p>
+      <p align="center">
+        <strong>📱 Cross-platform mobile</strong><br />
+        <strong>🔐 Clerk authentication</strong><br />
+        <strong>⚡ Automated workflows</strong>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🔹 Career Guidance Chatbot</h3>
       <br />
       <p align="center">
@@ -207,11 +236,12 @@ const ayush = {
         <strong>🗺️ Roadmap generation</strong>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <!-- Empty cell for layout balance -->
+    </td>
   </tr>
 </table>
-
 </div>
-
 ---
 
 ## 📊 GitHub Statistics
@@ -241,26 +271,26 @@ const ayush = {
 ## 🎯 Current Focus
 
 <div align="center">
-
 ```mermaid
 graph LR
     A[Learning] --> B[AI/ML]
     A --> C[Full Stack Development]
-    A --> D[Data Analytics]
-    B --> E[Building Projects]
-    C --> E
-    D --> E
-    E --> F[Real-world Impact]
+    A --> D[React Native]
+    A --> E[Cloud Deployment]
+    B --> F[Building Projects]
+    C --> F
+    D --> F
+    E --> F
+    F --> G[Real-world Impact]
 ```
-
 </div>
 
-- 🔭 Currently working on **AI-powered career guidance system**
-- 🌱 Learning **Advanced Machine Learning** and **Cloud Technologies**
-- 👯 Looking to collaborate on **Open Source AI Projects**
-- 💬 Ask me about **Web Development, AI/ML, and Entrepreneurship**
-- ⚡ Fun fact: **I cleared JEE Advanced cutoff with 96 percentile in JEE Mains!**
-
+🔭 Currently working on React Native mobile applications with cloud deployment
+🌱 Learning Advanced Machine Learning, Cloud Technologies, and Mobile Development
+👯 Looking to collaborate on Open Source AI Projects and Mobile Apps
+💬 Ask me about Web Development, AI/ML, React Native, and Entrepreneurship
+⚡ Fun fact: I cleared JEE Advanced cutoff with 96 percentile in JEE Mains!
+🚀 Recent: Deployed full-stack mobile app with Clerk auth, Neon DB & Render backend
 ---
 
 ## 🏸 Beyond Code
