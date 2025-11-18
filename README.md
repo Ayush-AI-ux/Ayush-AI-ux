@@ -6,10 +6,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;AI+%26+Analytics+Student;Building+Innovative+Solutions;Let's+Create+Something+Amazing!" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushmittal)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ayushmittal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayushmittal.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-mittal-b25361289/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://x.com/AyushMittal637)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ayush-ai-ux.github.io/Portflio_Ayush/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushmittal6377@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushmittal&color=blueviolet&style=for-the-badge)
 
@@ -52,8 +52,6 @@ const ayush = {
 | **Class 12** | 85% |
 | **JEE Mains** | 96 Percentile |
 | **JEE Advanced** | Cleared Cutoff ✅ |
-| **B.Tech Rank** | 6th among Honours students 🏅 |
-
 </div>
 
 ---
