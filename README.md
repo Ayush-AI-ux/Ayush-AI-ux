@@ -271,6 +271,7 @@ const ayush = {
 ## 🎯 Current Focus
 
 <div align="center">
+
 ```mermaid
 graph LR
     A[Learning] --> B[AI/ML]
@@ -283,14 +284,15 @@ graph LR
     E --> F
     F --> G[Real-world Impact]
 ```
+
 </div>
 
-🔭 Currently working on React Native mobile applications with cloud deployment
-🌱 Learning Advanced Machine Learning, Cloud Technologies, and Mobile Development
-👯 Looking to collaborate on Open Source AI Projects and Mobile Apps
-💬 Ask me about Web Development, AI/ML, React Native, and Entrepreneurship
-⚡ Fun fact: I cleared JEE Advanced cutoff with 96 percentile in JEE Mains!
-🚀 Recent: Deployed full-stack mobile app with Clerk auth, Neon DB & Render backend
+- 🔭 Currently working on **React Native mobile applications with cloud deployment**
+- 🌱 Learning **Advanced Machine Learning**, **Cloud Technologies**, and **Mobile Development**
+- 👯 Looking to collaborate on **Open Source AI Projects** and **Mobile Apps**
+- 💬 Ask me about **Web Development, AI/ML, React Native, and Entrepreneurship**
+- ⚡ Fun fact: **I cleared JEE Advanced cutoff with 96 percentile in JEE Mains!**
+- 🚀 Recent: **Deployed full-stack mobile app with Clerk auth, Neon DB & Render backend**
 ---
 
 ## 🏸 Beyond Code
